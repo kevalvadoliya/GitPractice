@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     }
     
     func updateUI() {
-        title = "Git"
+        title = "Git Practice"
     }
 
     
