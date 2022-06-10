@@ -15,12 +15,12 @@ class ViewController: UIViewController {
     }
     
     func updateUI() {
-        
+        title = "Git"
     }
 
     
     func updateContent() {
-        view.backgroundColor = .orange
+        view.backgroundColor = .red
     }
 
 }
